@@ -23,7 +23,7 @@ void createListFront(LinkList &L)
 	ElemType ch = 0;
 	while (true)
 	{
-		cin.get() >> ch;
+		cin >> ch;
 		if (ch == '$')
 		{
 			break;
@@ -43,7 +43,7 @@ void createListBack(LinkList& L)
 	ElemType ch = 0;
 	while (true)
 	{
-		cin.get() >> ch;
+		cin >> ch;
 		if (ch == '$')
 		{
 			t->next = NULL;
@@ -65,7 +65,7 @@ Node* getData(const LinkList& L, int pos)
 		return NULL;
 	}
 	Node* current = L;//current:初始指向头结点
-	for (int i = 0; i < pos-1; i++)
+	for (int i = 0; i < pos; i++)
 	{
 		current = current->next;
 	}
@@ -93,11 +93,11 @@ int listLength(const LinkList& L)
 //判空
 bool isEmpty(const LinkList& L)
 {
-	if (L->data)
+	if (!L||!L->data)//未初始化或空表
 	{
-		return false;
+		return true;
 	}
-	return true;
+	return false;
 }
 //插入	在指定位置后
 int listInsert(LinkList& L, int pos,char ch)
@@ -154,7 +154,7 @@ void listClear(const LinkList& L)
 	L->data = 0;
 }
 //销毁
-void destroyList(LinkList& L)
+void dropList(LinkList& L)
 {
 	delete L;
 	L = NULL;
@@ -173,12 +173,15 @@ void printList(const LinkList& L)
 		current = current->next;
 		cout << current->data << " ";
 	}
+	cout << endl;
 }
 int main()
 {
 	LinkList L;
 	initList(L);
 	createListBack(L);
+	printList(L);
+	dropList(L);
 	system("pause");
 	return 0;
 }
