@@ -118,6 +118,7 @@ int listInsert(LinkList& L, int pos,char ch)
 	//在位置之后插入
 	p->next = current->next;
 	current->next = p;
+	L->data++;
 	return OK;
 }
 //删除
@@ -139,6 +140,7 @@ int listDelete(LinkList& L, int pos)
 	current->next = temp->next;
 	delete temp;
 	temp = NULL;
+	L->data--;
 	return OK;
 }
 //清空
