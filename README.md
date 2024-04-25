@@ -15,3 +15,7 @@
 ### 双链表
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024424.png" style="zoom:70%;" />
+
+### 环形链表
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024425.png" style="zoom:70%;" />
