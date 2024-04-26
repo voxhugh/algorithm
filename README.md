@@ -19,3 +19,7 @@
 ### 环形链表
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024425.png" style="zoom:70%;" />
+
+### 静态栈
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024426.png" style="zoom:70%;" />
