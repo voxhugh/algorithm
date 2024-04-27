@@ -45,7 +45,7 @@ void Push(Stack_ &S,ElemType elem)
 	S->arr[S->top] = elem;
 }
 //出栈
-void Pop(Stack_ &S)
+ElemType Pop(Stack_ &S)
 {
 	//判断栈是否为空
 	if (isEmpty(S))
@@ -53,6 +53,7 @@ void Pop(Stack_ &S)
 		return;
 	}
 	S->top--;
+	return S->arr[S->top + 1];
 }
 //获取栈顶
 ElemType stackTop(const Stack_ &S)

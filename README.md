@@ -23,3 +23,8 @@
 ### 静态栈
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024426.png" style="zoom:70%;" />
+
+### 动态栈
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024427.png" style="zoom:70%;" />
+
