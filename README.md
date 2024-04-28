@@ -28,3 +28,10 @@
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024427.png" style="zoom:70%;" />
 
+### 链队列
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202442801.png" style="zoom:70%;" />
+
+### 环形队列
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202442802.png" style="zoom:70%;" />
