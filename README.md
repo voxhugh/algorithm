@@ -1,20 +1,54 @@
 # 数据结构与算法
 
+[📛线性结构](#string)
 
+[🌲树形结构](#tree)
 
-[线性结构](#string)
+### 📛线性结构
 
-​	[🔖](#GL)[广义表](https://github.com/voxhugh/algorithm/blob/master/%E5%B9%BF%E4%B9%89%E8%A1%A8/%E5%B9%BF%E4%B9%89%E8%A1%A8.cpp)	[🔖](#LL)[单链表](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#DL)[双链表](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#CL)[环形链表](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#SS)[静态栈](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#LS)[动态栈](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#LQ)[链队列](#https://github.com/voxhugh/algorithm/blob/master/)
+##### 广义表
 
-​	[🔖](#CQ)[环形队列](#https://github.com/voxhugh/algorithm/blob/master/)
+##### 单链表
 
+##### 双链表
 
+##### 环形链表
 
-## <a id="string"></a>📛线性结构
+##### 静态栈
+
+##### 动态栈
+
+##### 链队列
+
+##### 环形队列
+
+## 🪭附图
+
+### 线性结构
+
+#### 广义表
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/广义表.png" style="zoom:70%;" />
+
+#### 单链表
+
+#### 双链表
+
+#### 环形链表
+
+#### 静态栈
+
+#### 动态栈
+
+#### 链队列
+
+#### 环形队列
+
+## <h2 id="string">📛线性结构</h2>
 
 ### <a id="GL"></a>广义表
 
-<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/%E5%B9%BF%E4%B9%89%E8%A1%A8.png" style="zoom:70%;" />
+
 
 ### <a id="LL"></a>单链表
 
