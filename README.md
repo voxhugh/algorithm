@@ -4,7 +4,7 @@
 
 [线性结构](#string)
 
-​	[🔖](#GL)[广义表](#https://github.com/voxhugh/algorithm/blob/master/%E5%B9%BF%E4%B9%89%E8%A1%A8/%E5%B9%BF%E4%B9%89%E8%A1%A8.cpp)	[🔖](#LL)[单链表](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#DL)[双链表](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#CL)[环形链表](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#SS)[静态栈](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#LS)[动态栈](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#LQ)[链队列](#https://github.com/voxhugh/algorithm/blob/master/)
+​	[🔖](#GL)[广义表](https://github.com/voxhugh/algorithm/blob/master/%E5%B9%BF%E4%B9%89%E8%A1%A8/%E5%B9%BF%E4%B9%89%E8%A1%A8.cpp)	[🔖](#LL)[单链表](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#DL)[双链表](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#CL)[环形链表](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#SS)[静态栈](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#LS)[动态栈](#https://github.com/voxhugh/algorithm/blob/master/)	[🔖](#LQ)[链队列](#https://github.com/voxhugh/algorithm/blob/master/)
 
 ​	[🔖](#CQ)[环形队列](#https://github.com/voxhugh/algorithm/blob/master/)
 
