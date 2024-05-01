@@ -2,7 +2,7 @@
 
 [📛线性结构](#string)
 
-[🌲树形结构](#tree)
+[🎄树形结构](#tree)
 
 ### <h3 id="string">📛线性结构</h3>
 
@@ -25,6 +25,8 @@
 ### <h3 id="tree">🎄树形结构</h3>
 
 ##### [二叉树](https://github.com/voxhugh/algorithm/blob/master/二叉树/二叉树.cpp)
+
+##### [平衡二叉树](https://github.com/voxhugh/algorithm/blob/master/平衡二叉树/平衡二叉树.cpp)
 
 ## 🪭附图
 
@@ -67,3 +69,7 @@
 #### 二叉树
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024429.png" style="zoom:70%;" />
+
+#### 平衡二叉树
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202451.png" style="zoom:70%;" />
