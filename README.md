@@ -26,6 +26,8 @@
 
 ##### [二叉树](https://github.com/voxhugh/algorithm/blob/master/二叉树/二叉树.cpp)
 
+##### [二叉查找树](https://github.com/voxhugh/algorithm/blob/master/二叉查找树/二叉查找树.cpp)
+
 ##### [平衡二叉树](https://github.com/voxhugh/algorithm/blob/master/平衡二叉树/平衡二叉树.cpp)
 
 ## 🪭附图
@@ -69,6 +71,10 @@
 #### 二叉树
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024429.png" style="zoom:70%;" />
+
+#### 二叉查找树
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202452.png" style="zoom:70%;" />
 
 #### 平衡二叉树
 
