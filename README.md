@@ -32,6 +32,8 @@
 
 ##### [平衡二叉树](https://github.com/voxhugh/algorithm/blob/master/平衡二叉树/平衡二叉树.cpp)
 
+##### [伸展树](https://github.com/voxhugh/algorithm/blob/master/伸展树/伸展树.cpp)
+
 ## 🪭附图
 
 ### 线性结构
@@ -85,3 +87,7 @@
 #### 平衡二叉树
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202451.png" style="zoom:70%;" />
+
+#### 伸展树
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202454.png" style="zoom:70%;" />
