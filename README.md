@@ -34,6 +34,10 @@
 
 ##### [伸展树](https://github.com/voxhugh/algorithm/blob/master/伸展树/伸展树.cpp)
 
+##### [哈夫曼树](https://github.com/voxhugh/algorithm/blob/master/哈夫曼树/哈夫曼树.cpp)
+
+##### [2-3-4树](https://github.com/voxhugh/algorithm/blob/master/2-3-4树/2-3-4树.cpp)
+
 ## 🪭附图
 
 ### 线性结构
@@ -91,3 +95,11 @@
 #### 伸展树
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202454.png" style="zoom:70%;" />
+
+#### 哈夫曼树
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202456.png" style="zoom:70%;" />
+
+#### 2-3-4树
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202458.png" style="zoom:70%;" />
