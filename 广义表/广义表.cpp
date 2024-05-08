@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#define ElemType int
+typedef int ElemType;
 
 typedef struct GLNode
 {

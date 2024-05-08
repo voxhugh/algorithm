@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#define ElemType char
+typedef char ElemType;
 typedef struct avlnode
 {
 	ElemType val;//ֵ

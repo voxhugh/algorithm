@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #define MAXSIZE 50
-#define ElemType int
+typedef int ElemType;
 #define ERROR -1
 
 typedef struct Queue

@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#define ElemType char
+typedef char ElemType;
 #define EMPTY '.'//表示无结点
 
 typedef struct BiTNode

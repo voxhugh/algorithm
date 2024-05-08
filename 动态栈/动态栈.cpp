@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-#define ElemType char
+typedef char ElemType;
 #define ERROR '-1'//由于ElemType为char，则对应字符'-1'
 
 typedef struct Node
