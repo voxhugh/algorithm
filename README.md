@@ -38,6 +38,8 @@
 
 ##### [2-3-4树](https://github.com/voxhugh/algorithm/blob/master/2-3-4树/2-3-4树.cpp)
 
+##### [红黑树](https://github.com/voxhugh/algorithm/blob/master/红黑树/红黑树.cpp)
+
 ## 🪭附图
 
 ### 线性结构
@@ -103,3 +105,7 @@
 #### 2-3-4树
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202458.png" style="zoom:70%;" />
+
+#### 红黑树
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024513.png" style="zoom:70%;" />
