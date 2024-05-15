@@ -40,6 +40,8 @@
 
 ##### [红黑树](https://github.com/voxhugh/algorithm/blob/master/红黑树/红黑树.cpp)
 
+##### [B+树](https://github.com/voxhugh/algorithm/blob/master/B+树/B+树.cpp)
+
 ## 🪭附图
 
 ### 线性结构
@@ -109,3 +111,7 @@
 #### 红黑树
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024513.png" style="zoom:70%;" />
+
+#### B+树
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024515.png" style="zoom:70%;" />
