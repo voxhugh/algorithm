@@ -1,17 +1,17 @@
 #include <iostream>
 using namespace std;
-#define M 4 //½×Êı
+#define M 4 //é˜¶æ•°
 #define UNAVAILABLE -1
 typedef int ElemType;
 
 typedef struct bpnode
 {
-	ElemType keys[M];		//M¸ökey
-	struct bpnode* kids[M];	//M¿Å×ÓÊ÷
-	int keyNum;				//keyÊı
-	struct bpnode* next;	//Ò¶×Ó½áµãµÄĞÖµÜÖ¸Õë
+	ElemType keys[M];	//Mä¸ªkey
+	struct bpnode* kids[M];	//Mé¢—å­æ ‘
+	int keyNum;		//keyæ•°
+	struct bpnode* next;	//å¶å­ç»“ç‚¹çš„å…„å¼ŸæŒ‡é’ˆ
 }BPNode, * BPTree;
-//Éú³É½áµã²¢³õÊ¼»¯
+//ç”Ÿæˆç»“ç‚¹å¹¶åˆå§‹åŒ–
 BPNode* newNode()
 {
 	BPNode* N = new BPNode;
@@ -24,17 +24,17 @@ BPNode* newNode()
 	N->next = NULL;
 	return N;
 }
-//³õÊ¼»¯
+//åˆå§‹åŒ–
 void initBPTree(BPTree& root)
 {
 	if (M < 3)
 	{
-		cout << "M×îĞ¡Èı½×£¡" << endl;
+		cout << "Mæœ€å°ä¸‰é˜¶ï¼" << endl;
 		return;
 	}
 	root = newNode();
 }
-//Ñ°×î×óÒ¶½áµã
+//å¯»æœ€å·¦å¶ç»“ç‚¹
 BPNode*& findMostLeft(BPTree& root)
 {
 	if (root->kids[0])
@@ -43,7 +43,7 @@ BPNode*& findMostLeft(BPTree& root)
 	}
 	return root;
 }
-//Ñ°×îÓÒÒ¶½áµã
+//å¯»æœ€å³å¶ç»“ç‚¹
 BPNode*& findMostRight(BPTree& root)
 {
 	if (root->kids[M - 1])
