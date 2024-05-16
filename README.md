@@ -1,8 +1,16 @@
 # 数据结构与算法
 
-[📛线性结构](#string)
+[🪼](#code)
 
-[🎄树形结构](#tree)
+​	[📛线性结构](#string)
+
+​	[🎄树形结构](#tree)
+
+​	[🪸堆](#heap)
+
+[🌸附图](#imgs)
+
+## <h2 id="code">🪼</h2>
 
 ### <h3 id="string">📛线性结构</h3>
 
@@ -42,7 +50,11 @@
 
 ##### [B+树](https://github.com/voxhugh/algorithm/blob/master/B+树/B+树.cpp)
 
-## 🪭附图
+### <h3 id="heap">🪸堆</h3>
+
+##### [二叉堆](https://github.com/voxhugh/algorithm/blob/master/二叉堆/二叉堆.cpp)
+
+## <h2 id="imgs">🌸附图</h2>
 
 ### 线性结构
 
@@ -115,3 +127,9 @@
 #### B+树
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024515.png" style="zoom:70%;" />
+
+### 堆
+
+#### 二叉堆
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024516.png" style="zoom:70%;" />
