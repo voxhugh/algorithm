@@ -60,6 +60,8 @@
 
 ##### [有向图](https://github.com/voxhugh/algorithm/blob/master/有向图/有向图.cpp)
 
+##### [带权图](https://github.com/voxhugh/algorithm/blob/master/带权图/带权图.cpp)
+
 ## <h2 id="imgs">🌸附图</h2>
 
 ### 线性结构
@@ -145,3 +147,7 @@
 #### 有向图
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024517.png" style="zoom:70%;" />
+
+#### 带权图
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024518.png" style="zoom:70%;" />
