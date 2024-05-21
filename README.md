@@ -64,6 +64,8 @@
 
 ##### [完全图](https://github.com/voxhugh/algorithm/blob/master/完全图/完全图.cpp)
 
+##### [深度优先搜索](https://github.com/voxhugh/algorithm/blob/master/深度优先搜索/深度优先搜索.cpp)
+
 ## <h2 id="imgs">🌸附图</h2>
 
 ### 线性结构
@@ -157,3 +159,7 @@
 #### 完全图
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024520.png" style="zoom:70%;" />
+
+#### 深度优先搜索
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024521.png" style="zoom:70%;" />
