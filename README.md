@@ -2,19 +2,25 @@
 
 [🪼](#code)
 
-​	[📛线性结构](#string)
+​	[🍡线性结构](#string)
 
 ​	[🎄树形结构](#tree)
 
 ​	[🪸堆](#heap)
 
-​	[🗺️图](#map)
+​	[🍱图](#map)
 
-[🌸附图](#imgs)
+​	[🍿排序算法](#sort)
+
+[🍧算法复杂度](#algoCom)
+
+[🏳️‍🌈附图](#imgs)
 
 ## <h2 id="code">🪼</h2>
 
-### <h3 id="string">📛线性结构</h3>
+### <h3 id="string">🍡线性结构</h3>
+
+##### [稀疏矩阵](https://github.com/voxhugh/algorithm/blob/master/稀疏矩阵/稀疏矩阵.cpp)
 
 ##### [广义表](https://github.com/voxhugh/algorithm/blob/master/广义表/广义表.cpp)
 
@@ -56,7 +62,7 @@
 
 ##### [二叉堆](https://github.com/voxhugh/algorithm/blob/master/二叉堆/二叉堆.cpp)
 
-### <h3 id ="map">🗺️图</h3>
+### <h3 id ="map">🍱图</h3>
 
 ##### [有向图](https://github.com/voxhugh/algorithm/blob/master/有向图/有向图.cpp)
 
@@ -66,9 +72,33 @@
 
 ##### [深度优先搜索](https://github.com/voxhugh/algorithm/blob/master/深度优先搜索/深度优先搜索.cpp)
 
-## <h2 id="imgs">🌸附图</h2>
+##### [广度优先搜索](https://github.com/voxhugh/algorithm/blob/master/广度优先搜索/广度优先搜索.cpp)
+
+### <h3 id="sort">🍿排序算法</h3>
+
+## <h2 id="algoCom">🍧算法复杂度</h2>
+
+| 排序算法   | 平均情况 | 最好情况     | 最坏情况     | 空间复杂度 | 稳定与否 |
+| :--------- | :------- | :----------- | :----------- | :--------- | :------- |
+| 冒泡排序   | O(n2)    | O(n2)        | O(n2)        | 1          | 稳定     |
+| 选择排序   | O(n2)    | O(n2)        | O(n2)        | 1          | 不稳定   |
+| 插入排序   | O(n2)    | O(n)         | O(n)         | 1          | 稳定     |
+| 希尔排序   | O(nlogn) | 依赖增量序列 | 依赖增量序列 | 1          | 不稳定   |
+| 快速排列   | O(nlogn) | O(nlogn)     | O(n2)        | O(logn)    | 不稳定   |
+| 归并排序   | O(nlogn) | O(nlogn)     | O(nlogn)     | O(n)       | 稳定     |
+| 二叉树排序 | O(nlogn) | O(nlogn)     | O(n2)        | O(n)       | 稳定     |
+| 计数排序   | O(n+k)   | O(n+k)       | O(n+k)       | O(n+k)     | 稳定     |
+| 桶排序     | O(n+k)   | O(n2)        | O(n)         | O(n+k)     | 稳定     |
+| 堆排序     | O(nlogn) | O(nlogn)     | O(nlogn)     | 1          | 不稳定   |
+| 拓扑排序   | O(N+E)   | -            | -            | O(n)       | -        |
+
+## <h2 id="imgs">🏳️‍🌈附图</h2>
 
 ### 线性结构
+
+#### 稀疏矩阵
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245232.png" style="zoom:70%;" />
 
 #### 广义表
 
@@ -163,3 +193,7 @@
 #### 深度优先搜索
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024521.png" style="zoom:70%;" />
+
+#### 广度优先搜索
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245231.png" style="zoom:70%;" />
