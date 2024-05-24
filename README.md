@@ -12,9 +12,11 @@
 
 ​	[🍿排序算法](#sort)
 
-[🥛算法复杂度](#algoCom)
+[🧋算法复杂度](#algoCom)
 
-[🏳️‍🌈附图](#imgs)
+[📍附图](#imgs)
+
+​	[线性](#string2)			[树](#tree2)			[堆](#heap2)			[图](#map2)			[排序算法](#sort2)
 
 ## <h2 id="code">🪼</h2>
 
@@ -76,7 +78,13 @@
 
 ### <h3 id="sort">🍿排序算法</h3>
 
-## <h2 id="algoCom">🥛算法复杂度</h2>
+##### [冒泡排序](https://github.com/voxhugh/algorithm/blob/master/冒泡排序/冒泡排序.cpp)
+
+##### [插入排序](https://github.com/voxhugh/algorithm/blob/master/插入排序/插入排序.cpp)
+
+
+
+## <h2 id="algoCom">🧋算法复杂度</h2>
 
 | 排序算法   | 平均情况 | 最好情况     | 最坏情况     | 空间复杂度 | 稳定与否 |
 | :--------- | :------- | :----------- | :----------- | :--------- | :------- |
@@ -92,9 +100,9 @@
 | 堆排序     | O(nlogn) | O(nlogn)     | O(nlogn)     | 1          | 不稳定   |
 | 拓扑排序   | O(N+E)   | -            | -            | O(n)       | -        |
 
-## <h2 id="imgs">🏳️‍🌈附图</h2>
+## <h2 id="imgs">📍附图</h2>
 
-### 线性结构
+### <h3 id="string2">线性结构</h3>
 
 #### 稀疏矩阵
 
@@ -132,7 +140,7 @@
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202442802.png" style="zoom:70%;" />
 
-### 树形结构
+### <h3 id="tree2">树形结构</h3>
 
 #### 二叉树
 
@@ -170,13 +178,13 @@
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024515.png" style="zoom:70%;" />
 
-### 堆
+### <h3 id="heap2">堆</h3>
 
 #### 二叉堆
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024516.png" style="zoom:70%;" />
 
-### 图
+### <h3 id="map2">图</h3>
 
 #### 有向图
 
@@ -197,3 +205,13 @@
 #### 广度优先搜索
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245231.png" style="zoom:70%;" />
+
+### <h3 id="sort2">排序算法</h3>
+
+#### 冒泡排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245241.gif" style="zoom:70%;" />
+
+#### 插入排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245242.gif" style="zoom:70%;" />
