@@ -32,8 +32,8 @@ int main()
 {
 	int a[] = { 3,44,38,5,47,15,36,26,27,2,46,4,19,50,48 };
 	int len = sizeof(a) / sizeof(a[0]);
-	BubbleSort(a, 15);
-	printSeq(a, 15);
+	BubbleSort(a, len);
+	printSeq(a, len);
 	system("pause");
 	return 0;
 }
