@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void InsSort(int a[], int len)
+void insSort(int a[], int len)
 {
 	for (int i = 1; i < len; i++)
 	{
@@ -27,7 +27,7 @@ int main()
 {
 	int a[] = { 3,44,38,5,47,15,36,26,27,2,46,4,19,50,48 };
 	int len = sizeof(a) / sizeof(a[0]);
-	InsSort(a, len);
+	insSort(a, len);
 	printSeq(a, len);
 	system("pause");
 	return 0;

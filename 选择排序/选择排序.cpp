@@ -1,22 +1,23 @@
 #include <iostream>
 using namespace std;
 
-void swap(int* a, int* b)
+void selectSort(int a[], int len)
 {
-	int temp = *a;
-	*a = *b;
-	*b = temp;
-}
-void bubbleSort(int a[], int len)
-{
-	for (int i = 0; i < len; i++)
+	for (int i = 0; i < len - 1; i++)
 	{
+		int k = i;
 		for (int j = i + 1; j < len; j++)
 		{
-			if (a[i] > a[j])
+			if (a[k] > a[j])
 			{
-				swap(&a[i], &a[j]);
+				k = j;
 			}
+		}
+		if (k != i)
+		{
+			int temp = a[i];
+			a[i] = a[k];
+			a[k] = temp;
 		}
 	}
 }
@@ -30,9 +31,9 @@ void printSeq(int a[], int len)
 }
 int main()
 {
-	int a[] = { 3,44,38,5,47,15,36,26,27,2,46,4,19,50,48 };
+	int a[] = { 9,3,2,8,4,5,1 };
 	int len = sizeof(a) / sizeof(a[0]);
-	bubbleSort(a, len);
+	selectSort(a, len);
 	printSeq(a, len);
 	system("pause");
 	return 0;

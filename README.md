@@ -82,7 +82,9 @@
 
 ##### [插入排序](https://github.com/voxhugh/algorithm/blob/master/插入排序/插入排序.cpp)
 
+##### [希尔排序](https://github.com/voxhugh/algorithm/blob/master/希尔排序/希尔排序.cpp)
 
+##### [选择排序](https://github.com/voxhugh/algorithm/blob/master/选择排序/选择排序.cpp)
 
 ## <h2 id="algoCom">🧋算法复杂度</h2>
 
@@ -215,3 +217,11 @@
 #### 插入排序
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245242.gif" style="zoom:70%;" />
+
+#### 希尔排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245271.gif" style="zoom:70%;" />
+
+#### 选择排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245272.gif" style="zoom:70%;" />
