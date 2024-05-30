@@ -86,6 +86,10 @@
 
 ##### [选择排序](https://github.com/voxhugh/algorithm/blob/master/选择排序/选择排序.cpp)
 
+##### [堆排序](https://github.com/voxhugh/algorithm/blob/master/堆排序/堆排序.cpp)
+
+##### [归并排序](https://github.com/voxhugh/algorithm/blob/master/归并排序/归并排序.cpp)
+
 ## <h2 id="algoCom">🧋算法复杂度</h2>
 
 | 排序算法   | 平均情况 | 最好情况     | 最坏情况     | 空间复杂度 | 稳定与否 |
@@ -225,3 +229,11 @@
 #### 选择排序
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245272.gif" style="zoom:70%;" />
+
+#### 堆排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245301.gif" style="zoom:70%;" />
+
+#### 归并排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245302.gif" style="zoom:70%;" />
