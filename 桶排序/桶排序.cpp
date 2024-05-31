@@ -24,10 +24,10 @@ void bucketSort(int a[], int len)
 	vector<int> buckets[bucketNum];
 	for (int i = 0; i < len; i++)
 	{
-		//ÈëÍ°
+		//å…¥æ¡¶
 		int index = a[i] / divisor;
 		buckets[index].push_back(a[i]);
-		//Í°ÄÚ²åÈëÅÅÐò
+		//æ¡¶å†…æ’å…¥æŽ’åº
 		int j = buckets[index].size();
 		while (--j > 0)
 		{
@@ -41,7 +41,7 @@ void bucketSort(int a[], int len)
 			}
 		}
 	}
-	//³öÍ°
+	//å‡ºæ¡¶
 	int k = 0;
 	for (int i = 0; i < bucketNum; i++)
 	{
