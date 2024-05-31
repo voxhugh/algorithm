@@ -90,6 +90,10 @@
 
 ##### [归并排序](https://github.com/voxhugh/algorithm/blob/master/归并排序/归并排序.cpp)
 
+##### [桶排序](https://github.com/voxhugh/algorithm/blob/master/桶排序/桶排序.cpp)
+
+##### [基数排序](https://github.com/voxhugh/algorithm/blob/master/基数排序/基数排序.cpp)
+
 ## <h2 id="algoCom">🧋算法复杂度</h2>
 
 | 排序算法   | 平均情况 | 最好情况     | 最坏情况     | 空间复杂度 | 稳定与否 |
@@ -237,3 +241,7 @@
 #### 归并排序
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245302.gif" style="zoom:70%;" />
+
+#### 基数排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024531.gif" style="zoom:70%;" />
