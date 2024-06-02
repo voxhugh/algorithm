@@ -98,6 +98,10 @@
 
 ##### [计数排序](https://github.com/voxhugh/algorithm/blob/master/计数排序/计数排序.cpp)
 
+##### [快速排序](https://github.com/voxhugh/algorithm/blob/master/快速排序/快速排序.cpp)
+
+##### [拓扑排序](https://github.com/voxhugh/algorithm/blob/master/拓扑排序/拓扑排序.cpp)
+
 ## <h2 id="algoCom">🧋算法复杂度</h2>
 
 | 排序算法   | 平均情况 | 最好情况     | 最坏情况     | 空间复杂度 | 稳定与否 |
@@ -253,3 +257,11 @@
 #### 计数排序
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202461.gif" style="zoom:70%;" />
+
+#### 快速排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024621.gif" style="zoom:70%;" />
+
+#### 拓扑排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024622.png" style="zoom:70%;" />
