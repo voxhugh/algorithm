@@ -10,13 +10,15 @@
 
 ​	[🍱图](#map)
 
-​	[🍿排序算法](#sort)
+​	[🪅排序算法](#sort)
 
-[🧋算法复杂度](#algoCom)
+​	[🪁查找算法](#search)
+
+[🫧算法复杂度](#algoCom)
 
 [📍附图](#imgs)
 
-​	[🍡](#string2)			[🎄](#tree2)			[🪸](#heap2)			[🍱](#map2)			[🍿](#sort2)
+​	[🍡](#string2)			[🎄](#tree2)			[🪸](#heap2)			[🍱](#map2)			[🪅](#sort2)
 
 ## <h2 id="code">🪼</h2>
 
@@ -76,7 +78,7 @@
 
 ##### [广度优先搜索](https://github.com/voxhugh/algorithm/blob/master/广度优先搜索/广度优先搜索.cpp)
 
-### <h3 id="sort">🍿排序算法</h3>
+### <h3 id="sort">🪅排序算法</h3>
 
 ##### [冒泡排序](https://github.com/voxhugh/algorithm/blob/master/冒泡排序/冒泡排序.cpp)
 
@@ -102,7 +104,17 @@
 
 ##### [拓扑排序](https://github.com/voxhugh/algorithm/blob/master/拓扑排序/拓扑排序.cpp)
 
-## <h2 id="algoCom">🧋算法复杂度</h2>
+### <h3 id="search">🪁查找算法</h3>
+
+##### [顺序查找](https://github.com/voxhugh/algorithm/blob/master/顺序查找顺序查找.cpp)
+
+##### [二分查找](https://github.com/voxhugh/algorithm/blob/master/二分查找/二分查找.cpp)
+
+##### [插值查找](https://github.com/voxhugh/algorithm/blob/master/插值查找/插值查找.cpp)
+
+##### [斐波那契查找](https://github.com/voxhugh/algorithm/blob/master/斐波那契查找/斐波那契查找.cpp)
+
+## <h2 id="algoCom">🫧算法复杂度</h2>
 
 | 排序算法   | 平均情况 | 最好情况     | 最坏情况     | 空间复杂度 | 稳定与否 |
 | :--------- | :------- | :----------- | :----------- | :--------- | :------- |
@@ -249,6 +261,10 @@
 #### 归并排序
 
 <img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/20245302.gif" style="zoom:70%;" />
+
+#### 桶排序
+
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202463.gif" style="zoom:70%;" />
 
 #### 基数排序
 
