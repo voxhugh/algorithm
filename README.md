@@ -106,7 +106,7 @@
 
 ### <h3 id="search">🪁查找算法</h3>
 
-##### [顺序查找](https://github.com/voxhugh/algorithm/blob/master/顺序查找顺序查找.cpp)
+##### [顺序查找](https://github.com/voxhugh/algorithm/blob/master/顺序查找/顺序查找.cpp)
 
 ##### [二分查找](https://github.com/voxhugh/algorithm/blob/master/二分查找/二分查找.cpp)
 
