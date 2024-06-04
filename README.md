@@ -114,6 +114,12 @@
 
 ##### [斐波那契查找](https://github.com/voxhugh/algorithm/blob/master/斐波那契查找/斐波那契查找.cpp)
 
+##### [树表查找](https://github.com/voxhugh/algorithm/blob/master/树表查找/树表查找.cpp)
+
+##### [分块查找](https://github.com/voxhugh/algorithm/blob/master/分块查找/分块查找.cpp)
+
+##### [哈希查找](https://github.com/voxhugh/algorithm/blob/master/哈希查找/哈希查找.cpp)
+
 ## <h2 id="algoCom">🫧算法复杂度</h2>
 
 | 排序算法   | 平均情况 | 最好情况     | 最坏情况     | 空间复杂度 | 稳定与否 |
