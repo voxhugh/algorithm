@@ -158,11 +158,11 @@
 
 #### 环形链表
 
-<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024425.png" style="zoom:70%;" />
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024425.png" style="zoom:60%;" />
 
 #### 静态栈
 
-<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024426.png" style="zoom:70%;" />
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/2024426.png" style="zoom:55%;" />
 
 #### 动态栈
 
@@ -174,7 +174,7 @@
 
 #### 环形队列
 
-<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202442802.png" style="zoom:70%;" />
+<img src="https://github.com/voxhugh/Utils/blob/main/Algo-stru_IMGs/202442802.png" style="zoom:60%;" />
 
 ### <h3 id="tree2">树形结构</h3>
 
